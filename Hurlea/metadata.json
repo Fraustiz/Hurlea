@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schemas.premid.app/metadata/1.7",
+	"author": {
+		"id": "457057429557870603",
+		"name": "Fraustiz"
+	},
+	"service": "Hurlea",
+	"description": {
+		"en": "Hurlea is a french streaming service for movies and series."
+	},
+	"url": [
+		"hurlea.xyz",
+		"www.hurlea.xyz"
+	],
+	"version": "1.0.0",
+	"iframe": true,
+	"logo": "https://i.imgur.com/HNP2V4l.png",
+	"thumbnail": "https://i.imgur.com/Xqw4bz7.png",
+	"color": "#09C49D",
+	"category": "videos",
+	"tags": [
+		"movie",
+		"streaming",
+		"series",
+		"animes",
+		"anime",
+		"serie",
+		"movies"
+	]
+}
